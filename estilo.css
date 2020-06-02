@@ -5,7 +5,7 @@ h1{
     font-family: 'Roboto Slab', serif;
 }
 .columna{
-    background-color: gray;
+    background-color: rgb(141, 137, 137);
     display: inline-block;
     width:25%;
 }
